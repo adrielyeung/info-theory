@@ -1,0 +1,128 @@
+Interesting case: "versifying"
+Remaining num of words:  172822
+Letter 1:  v
+Remaining num of words:  2735
+Info gained from revealing letter 1:  5.98160223902  bits
+Total amount of info gained after letter 1:  5.98160223902  bits
+Amount of info not revealed after letter 1:  11.4173251177  bits
+Letter 2:  e
+Remaining num of words:  748
+Info gained from revealing letter 2:  1.87043065779  bits
+Total amount of info gained after letter 2:  7.85203289681  bits
+Amount of info not revealed after letter 2:  9.54689445989  bits
+Letter 3:  r
+Remaining num of words:  282
+Info gained from revealing letter 3:  1.40734310749  bits
+Total amount of info gained after letter 3:  9.2593760043  bits
+Amount of info not revealed after letter 3:  8.1395513524  bits
+Letter 4:  s
+Remaining num of words:  42
+Info gained from revealing letter 4:  2.74723392962  bits
+Total amount of info gained after letter 4:  12.0066099339  bits
+Amount of info not revealed after letter 4:  5.39231742278  bits
+Letter 5:  i
+Remaining num of words:  17
+Info gained from revealing letter 5:  1.30485458153  bits
+Total amount of info gained after letter 5:  13.3114645154  bits
+Amount of info not revealed after letter 5:  4.08746284125  bits
+Letter 6:  f
+Remaining num of words:  8
+Info gained from revealing letter 6:  1.08746284125  bits
+Total amount of info gained after letter 6:  14.3989273567  bits
+Amount of info not revealed after letter 6:  3.0  bits
+Letter 7:  y
+Remaining num of words:  2
+Info gained from revealing letter 7:  2.0  bits
+Total amount of info gained after letter 7:  16.3989273567  bits
+Amount of info not revealed after letter 7:  1.0  bits
+Letter 8:  i
+Remaining num of words:  1
+Info gained from revealing letter 8:  1.0  bits
+Total amount of info gained after letter 8:  17.3989273567  bits
+Amount of info not revealed after letter 8:  0.0  bits
+Letter 9:  n
+Remaining num of words:  1
+Info gained from revealing letter 9:  0.0  bits
+Total amount of info gained after letter 9:  17.3989273567  bits
+Amount of info not revealed after letter 9:  0.0  bits
+Letter 10:  g
+Remaining num of words:  1
+Info gained from revealing letter 10:  0.0  bits
+Total amount of info gained after letter 10:  17.3989273567  bits
+Amount of info not revealed after letter 10:  0.0  bits
+
+"Wombat"
+Remaining num of words:  172822
+Letter 1:  w
+Remaining num of words:  3694
+Info gained from revealing letter 1:  5.54795920572  bits
+Total amount of info gained after letter 1:  5.54795920572
+Amount of info not revealed after letter 1:  11.850968151
+Letter 2:  o
+Remaining num of words:  578
+Info gained from revealing letter 2:  2.67604246848  bits
+Total amount of info gained after letter 2:  8.2240016742
+Amount of info not revealed after letter 2:  9.1749256825
+Letter 3:  m
+Remaining num of words:  46
+Info gained from revealing letter 3:  3.65136372644  bits
+Total amount of info gained after letter 3:  11.8753654006
+Amount of info not revealed after letter 3:  5.52356195606
+Letter 4:  b
+Remaining num of words:  8
+Info gained from revealing letter 4:  2.52356195606  bits
+Total amount of info gained after letter 4:  14.3989273567
+Amount of info not revealed after letter 4:  3.0
+Letter 5:  a
+Remaining num of words:  2
+Info gained from revealing letter 5:  2.0  bits
+Total amount of info gained after letter 5:  16.3989273567
+Amount of info not revealed after letter 5:  1.0
+Letter 6:  t
+Remaining num of words:  2
+Info gained from revealing letter 6:  0.0  bits
+Total amount of info gained after letter 6:  16.3989273567
+Amount of info not revealed after letter 6:  1.0
+Letter 7:  s
+Remaining num of words:  1
+Info gained from revealing letter 7:  1.0  bits
+Total amount of info gained after letter 7:  17.3989273567
+Amount of info not revealed after letter 7:  0.0
+
+runfile('C:/Users/Adriel/Documents/School/info_ps2.py', wdir='C:/Users/Adriel/Documents/School')
+Remaining num of words:  172822
+Letter 1:  w
+Remaining num of words:  3694
+Info gained from revealing letter 1:  5.54795920572  bits
+Total amount of info gained after letter 1:  5.54795920572  bits
+Amount of info not revealed after letter 1:  11.850968151  bits
+Letter 2:  o
+Remaining num of words:  578
+Info gained from revealing letter 2:  2.67604246848  bits
+Total amount of info gained after letter 2:  8.2240016742  bits
+Amount of info not revealed after letter 2:  9.1749256825  bits
+Letter 3:  m
+Remaining num of words:  46
+Info gained from revealing letter 3:  3.65136372644  bits
+Total amount of info gained after letter 3:  11.8753654006  bits
+Amount of info not revealed after letter 3:  5.52356195606  bits
+Letter 4:  b
+Remaining num of words:  8
+Info gained from revealing letter 4:  2.52356195606  bits
+Total amount of info gained after letter 4:  14.3989273567  bits
+Amount of info not revealed after letter 4:  3.0  bits
+Letter 5:  a
+Remaining num of words:  2
+Info gained from revealing letter 5:  2.0  bits
+Total amount of info gained after letter 5:  16.3989273567  bits
+Amount of info not revealed after letter 5:  1.0  bits
+Letter 6:  t
+Remaining num of words:  2
+Info gained from revealing letter 6:  0.0  bits
+Total amount of info gained after letter 6:  16.3989273567  bits
+Amount of info not revealed after letter 6:  1.0  bits
+Letter 7:  s
+Remaining num of words:  1
+Info gained from revealing letter 7:  1.0  bits
+Total amount of info gained after letter 7:  17.3989273567  bits
+Amount of info not revealed after letter 7:  0.0  bits

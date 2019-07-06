@@ -1,0 +1,21 @@
+English individual alphabets
+1-symbol
+Min Hamming distance = 1, between letters e and t.
+Max Hamming distance = 1, between letters e and t.
+Mean Hamming distance = 1.0.
+2-symbol
+Min Hamming distance = 1, between letters a and i.
+Max Hamming distance = 2, between letters a and n.
+Mean Hamming distance = 1.3333333333333333.
+3-symbol
+Min Hamming distance = 1, between letters d and g.
+Max Hamming distance = 3, between letters d and w.
+Mean Hamming distance = 1.7142857142857142.
+4-symbol
+Min Hamming distance = 1, between letters b and c.
+Max Hamming distance = 4, between letters b and j.
+Mean Hamming distance = 2.1363636363636362.
+Numbers
+Min Hamming distance = 1, between numbers 0 and 1.
+Max Hamming distance = 5, between numbers 0 and 5.
+Mean Hamming distance = 2.7777777777777777.
