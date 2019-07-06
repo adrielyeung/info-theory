@@ -3,7 +3,7 @@
 import numpy as np
 import matplotlib.pyplot as pl
 
-#%% Q2 setup
+#%% Q1 setup
 def binomial(n, p, N):
     return np.math.factorial(N)/(np.math.factorial(n)*np.math.factorial(N-n))*(p**n)*((1-p)**(N-n))
 
@@ -25,7 +25,7 @@ def align_yaxis(ax1, v1, ax2, v2):
     miny, maxy = ax2.get_ylim()
     ax2.set_ylim(miny+dy, maxy+dy)
 
-#%% Q2(c)
+#%% Q1(c)
 KL_N10 = []
 KL_N100 = []
 
@@ -44,7 +44,7 @@ align_yaxis(ax, 0, ax2, 0)
 ax.legend()
 ax2.legend()
 
-#%% Q2(d)
+#%% Q1(d)
 def poisson(n, p, N):
     lam = p*N
     return (lam**n)*(np.exp(-lam))/np.math.factorial(n)
