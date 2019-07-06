@@ -13,3 +13,6 @@ Programs written in Python 3, and contain the following exercises:
 - PS4 (Q2d): Difference between channel capacity and mutual information as function of average number of photons to denote symbol "1".
 - PS4 (Q6c): Plot of probability of a majority decision being correct *P* as a function of number of repeats *K*.
 - PS4 (Q7b): Minimum, maximum and mean Hamming distances between words with 2-20 letters (in CSV files), based on list of English words ```list_of_engwords.txt``` (manually adding 1-letter words "a" and "I")
+
+## Acknowledgements
+Credits to Dr. Daniel Mortlock for teaching the course and designing these tasks.
